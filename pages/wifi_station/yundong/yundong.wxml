@@ -1,0 +1,1 @@
+<view class='countDown'>已运动：<text style='color:red'>{{countDownNum}}</text>s</view>
