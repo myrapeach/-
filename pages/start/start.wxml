@@ -1,0 +1,8 @@
+<!--start.wxml-->
+
+
+<button class="btn1" bindtap="valuate">
+心有猛虎</button>
+
+<button class="btn2" bindtap="gotic">
+细嗅蔷薇</button>
